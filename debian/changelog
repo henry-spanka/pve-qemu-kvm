@@ -1,3 +1,9 @@
+pve-qemu-kvm (2.2-24) unstable; urgency=low
+
+  * Fix CVE 2016-3710 and 2016-3712
+
+ -- Henry Spanka - myVirtualserver <henry@myvirtualserver.de>  Tue, 17 May 2016 14:04:02 +0200
+
 pve-qemu-kvm (2.2-23) unstable; urgency=low
 
   * Fix CVE-2016-2538

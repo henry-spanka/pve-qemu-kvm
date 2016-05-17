@@ -62,3 +62,8 @@ CVE-2015-7295-virtio-introduce-virtqueue_unmap_sg.patch
 CVE-2016-2391-usb-ohci-avoid-multiple-eof-timers.patch
 CVE-2016-2392-check-USB-configuration-descriptor-object.patch
 CVE-2016-2538-usb-check-RNDIS-message-length.patch
+cve_2016_3710_cve_2016_3712/0001-vga-fix-banked-access-bounds-checking-CVE-2016-3710.patch
+cve_2016_3710_cve_2016_3712/0002-vga-add-vbe_enabled-helper.patch
+cve_2016_3710_cve_2016_3712/0003-vga-factor-out-vga-register-setup.patch
+cve_2016_3710_cve_2016_3712/0004-vga-update-vga-register-setup-on-vbe-changes.patch
+cve_2016_3710_cve_2016_3712/0005-vga-make-sure-vga-register-setup-for-vbe-stays-intact.patch
